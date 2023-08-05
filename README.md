@@ -28,28 +28,47 @@ GPS VCC     -> ESP8266 VCC </pre>
 <pre>
  Flashing the Firmware
 
-#Download the compiled binary (.bin) file for the WiFi monitor project.
+#Download the compiled binary (.bin) file for the WiFi Recon project.
+
 #Connect the ESP8266 flasher to your computer.
+
 #Open the ESP8266 flasher software (e.g., esptool, NodeMCU Flasher).
+
 #Select the appropriate serial port for the flasher.
+
 #Choose the downloaded.bin file as the firmware to be flashed.
+
 #Configure any necessary flash settings (e.g., baud rate, flash size).
+
 #Initiate the flashing process and wait for it to complete.
+
 #Uploading Code to ESP8266
 
 #To upload a Code to ESP8266/d1 mini use a esp8266 flasher
-#The Flasher and Program files are in our GitHub to Download file (Click Here)
+
+#The Flasher and Program files are in our GitHub to Download file
+
 #Just press that green button and download as zip then extract it
+
 #In this thing there is a 2 files here. just install it depend on your configuration
+
 #Then open that esp8266 flasher it looks like this
+<br>
+<img src="/img/image.avif" alt="hackernowful" />
+<br>
 
 #Go to the config option then press that first setting icon and choose our downloaded bin file (packet_monitor.bin) from our GitHub
-#Then go back to that operation section. Now connect your d1 mini or any other esp8266 module after you plug in that your device you can see that Com port option appear choose your port and click flash button that is it!
-#IF nothing is shown on that display just press that reset button on your d1 mini board
-#Software Implementation
 
-Power on the circuit after flashing the firmware.
-The WiFi monitor will automatically start running and displaying information on the OLED screen.
+#Then go back to that operation section. Now connect your d1 mini or any other esp8266 module after you plug in that your device you can see that Com port option appear choose your port and click flash button that is it!
+<br>
+<img src="/img/image (1).avif" alt="hackernowful" />
+<br>
+#IF nothing is shown on that display just press that reset button on your d1 mini board
+
+
+#Power on the circuit after flashing the firmware.
+
+#The WiFi Recon will automatically start running and displaying information on the OLED screen.
 </pre>
 
 
