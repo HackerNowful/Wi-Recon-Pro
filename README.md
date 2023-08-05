@@ -9,8 +9,8 @@ Wi-Recon Pro: Scan nearby WiFi networks effortlessly. Get signal strength, encry
 <br>
 <h5 align="center"><b>WiFi Scan and OLED Display</b></h5>
 
-<pre>  OLED SDA      -> ESP8266 D2 (GPIO4)
-  OLED SCL      -> ESP8266 D1 (GPIO5)
+<pre>  OLED SDA      -> ESP8266 D1
+  OLED SCL      -> ESP8266 D2
   OLED GND      -> ESP8266 GND
   OLED VCC      -> ESP8266 VCC 
 </pre>
